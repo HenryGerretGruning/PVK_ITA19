@@ -1,2 +1,5 @@
+
 <?php
-Echo "PHP AINE PROJEKT";
+require_once '../app/bootstrap.php';
+// init app core
+$init = new Core();
